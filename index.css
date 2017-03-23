@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+#paintings{
+    width: 400px;
+}
+#black{
+    width:400px;
+}
+#splatterpaint{
+    width:400px;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    background-image: url("https://img.clipartfest.com/56dc5ae9f167c837d598e4e755a1c596_-paint-splatter-png-splatter-paint-clipart_1680-1050.png")
+}

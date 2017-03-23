@@ -1,0 +1,22 @@
+#flowerImage {
+    width: 200px;
+}
+#sunriseimage {
+    width: 200px;
+}
+#treeImage {
+    width: 400px;
+}
+#BlueSky{
+    width: 100px;
+}
+#Nature{
+    width: 200px;
+}
+h1 {
+    color: white;
+}
+body{
+    background-image:url("https://farm1.static.flickr.com/78/220747760_03a8861370.jpg");
+}
+}
